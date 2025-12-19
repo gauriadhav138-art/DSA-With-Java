@@ -6,17 +6,17 @@ This repo contains solutions for various **Data Structures and Algorithms** prob
 
 -
 ## 📁 Repository Structure
-DSA<br>
-Arrays<br>
-Strings<br>
-Recursion<br>
-LinkedList<br>
-Stack<br>
-Queue<br>
-Trees<br>
-Graphs<br>
-Dynamic Programming<br>
-Other Important Problems<br>
+-DSA<br>
+-Arrays<br>
+-Strings<br>
+-Recursion<br>
+-LinkedList<br>
+-Stack<br>
+-Queue<br>
+-Trees<br>
+-Graphs<br>
+-Dynamic Programming<br>
+-Other Important Problems<br>
 
 ## 🛠️ Languages Used
 - Java 
@@ -26,14 +26,14 @@ Other Important Problems<br>
 - Improve coding consistency
 - Build strong foundation for placements / interviews
 - Track my coding journey
-- 
+
 ## 📌 Platforms Covered
 - LeetCode
 - GeeksForGeeks
 
 ## ▶️ How to Run the Code
 1. Clone the repository:
-2. 2. Open in IDE (VS Code / IntelliJ / CodeBlocks etc.)
+2. Open in IDE (VS Code / IntelliJ / CodeBlocks etc.)
 3. Run the desired file
 
 ## 🤝 Contributions
